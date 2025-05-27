@@ -1,0 +1,34 @@
+# Treviwise Backend Dependencies
+
+# ===== WEB FRAMEWORK =====
+fastapi==0.104.1
+uvicorn[standard]==0.24.0
+
+# ===== DATABASE =====
+psycopg2-binary==2.9.9
+sqlalchemy==2.0.23
+
+# ===== ENVIRONMENT & CONFIG =====
+python-dotenv==1.0.0
+
+# ===== HTTP REQUESTS =====
+requests==2.31.0
+aiohttp==3.9.1
+
+# ===== DATA PROCESSING =====
+pandas==2.1.3
+
+# ===== ASYNC SUPPORT =====
+asyncio-mqtt==0.16.1
+
+# ===== SCHEDULING =====
+schedule==1.2.0
+
+# ===== UTILITIES =====
+python-multipart==0.0.6
+
+# ===== DEVELOPMENT (optional) =====
+# black==23.9.1
+# flake8==6.1.0
+# pytest==7.4.3
+# pytest-asyncio==0.21.1
