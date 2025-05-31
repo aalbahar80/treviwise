@@ -11,7 +11,7 @@
 [![React 18](https://img.shields.io/badge/react-18+-blue.svg)](https://reactjs.org/)
 [![PostgreSQL](https://img.shields.io/badge/postgresql-15+-blue.svg)](https://www.postgresql.org/)
 
-[📊 Live Demo](https://demo.treviwise.com) • [📖 Documentation](docs/) • [🚀 Quick Start](#-quick-start) • [🤝 Contributing](CONTRIBUTING.md)
+[📊 Live Demo](https://treviwise.com) • [📖 Documentation](docs/) • [🚀 Quick Start](#-quick-start) • [🤝 Contributing](CONTRIBUTING.md)
 
 </div>
 
